@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Solway', serif;;
+  }
+  body {
+    background-color: grey;
+  }
+  .box{
+  
+    background-image:  linear-gradient(315deg, #C20114 , #E8C547);;
+  
+  }
+  #input1 {
+    width: 162px;
+    height: 65px;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    border: 1px solid  white;
+  }
+  .small-box input[type="button"]{
+    width: 81px;
+    height: 65px;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    border: 1px solid #121212;
+  }
+  .small-box input[type="button"]:hover{
+    background-color:rgb(46, 44, 44) ;
+  }
+  #input2 {
+    width: 162px;
+    height: 65px;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    border: 1px solid #fff ;
+  }
+  #input1:hover{
+    background-color:rgb(46, 44, 44) ;
+  }
+  #input2:hover{
+    background-color:rgb(46, 44, 44)  ; 
+  }
